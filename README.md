@@ -9,25 +9,15 @@
 
 ---
 
-### 📦 前置依赖
-
-运行该 Mod 需要在 Beat Saber 中安装以下依赖：
-
-- **Beat Saber** `1.40.8` (或兼容版本)
-- **BSIPA** `^4.3.0`
-- **BeatLeader** `^0.9.33`
-- **BSML (BeatSaberMarkupLanguage)**
-
----
 
 ### 🚀 安装方法
 
-1. 前往本仓库的 [Releases](../../releases) 页面，下载最新的 `auto_replay.dll`。
-2. 将 `auto_replay.dll` 复制到你的 Beat Saber 安装目录下的 `Plugins` 文件夹中：
+1. 前往本仓库的 [Releases](../../releases) 页面，下载最新的 `auto_play.dll`。
+2. 将 `auto_play.dll` 复制到你的 Beat Saber 安装目录下的 `Plugins` 文件夹中：
    ```text
-   你的BeatSaber路径/Plugins/auto_replay.dll
+   你的BeatSaber路径/Plugins/auto_play.dll
    ```
-   如果你不知道的话可以去 steam 按 “浏览本地目录”
+   如果你不知道的话可以去 steam 按 “浏览本地目录” 查看
 3. 启动游戏即可生效。
 
 ---
