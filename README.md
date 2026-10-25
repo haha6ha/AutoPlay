@@ -7,7 +7,7 @@
 [![BeatLeader](https://img.shields.io/badge/BeatLeader-^0.9.33-red.svg)](https://beatleader.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**AutoPlay** 是一个为 **Beat Saber** 开发的开源模组，能够为任意选中的谱面一键生成超拟真、**BeatLeader 回放（`.bsor`）**，并直接在游戏内自动唤起回放器进行观赏。
+**AutoPlay** 是一个为 **Beat Saber** 开发的开源模组，能够为任意选中的谱面一键生成超拟真 `.bsor` 回放，并直接在游戏内自动唤起BeatLeader回放器进行观赏。
 
 <video src="./Demo.mp4" controls width="600"></video>
 
