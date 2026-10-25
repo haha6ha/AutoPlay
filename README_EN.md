@@ -41,11 +41,12 @@ Feel free to tell me what kind of mods you'd like to see—if I feel like doing 
 
 1. Go to the [Releases](../../releases) page of this repository and locate the corresponding version of `auto_play.dll`—though, as it happens, we only have one version anyway :>
 2. Copy `auto_play.dll` into the `Plugins` folder inside your Beat Saber installation directory:
+
    ```text
    YourBeatSaberPath/Plugins/auto_play.dll
    ```
    If you don't know where it is, right-click Beat Saber in Steam and select "Browse local files".
-3. Launch the game for the mod to take effect.
+4. Launch the game for the mod to take effect.
 
 ## 🎮 How to Use
 
