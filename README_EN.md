@@ -46,7 +46,7 @@ Feel free to tell me what kind of mods you'd like to see—if I feel like doing 
    YourBeatSaberPath/Plugins/auto_play.dll
    ```
    If you don't know where it is, right-click Beat Saber in Steam and select "Browse local files".
-4. Launch the game for the mod to take effect.
+3. Launch the game for the mod to take effect.
 
 ## 🎮 How to Use
 
