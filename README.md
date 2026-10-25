@@ -5,25 +5,27 @@
 [![BeatLeader](https://img.shields.io/badge/BeatLeader-^0.9.33-red.svg)](https://beatleader.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**AutoReplay** 是一个为 **Beat Saber** 开发的开源模组，能够为任意选中的谱面一键生成超拟真、**BeatLeader 回放（`.bsor`）**，并直接在游戏内自动唤起回放器进行观赏。
+**AutoPlay** 是一个为 **Beat Saber** 开发的开源模组，能够为任意选中的谱面一键生成超拟真、**BeatLeader 回放（`.bsor`）**，并直接在游戏内自动唤起回放器进行观赏。
 
----
+## ⚖️ 免责声明
 
-### 📕 未来发展
+- 本模组仅用于**谱面演示、回放效果观赏、算法学习与研究**。
+- 请勿将本工具用于任何破坏天梯与多人排位公平性的行为，尊重 BeatLeader 与 BeatSaber 社区规范。
+
+## 📕 未来发展
 这个项目未来没有维护计划
 
 目前的已知问题
 - 躲炸弹效果不是很好
+- 如果有其他严重的问题也可以跟我反馈，很严重我在维护
 
 如果你有任何问题想马上联系作者 https://t.me/haha_2ha
 
 想要什么模组都可以告诉我，如果我想做的话我就会做
 
-我也欢迎各种形式的打赏
+**我非常欢迎各种形式的打赏，这个可以重点私信我** 😏
 
----
-
-### 🚀 安装方法
+## 🚀 安装方法
 
 1. 前往本仓库的 [Releases](../../releases) 页面，下载最新的 `auto_play.dll`。
 2. 将 `auto_play.dll` 复制到你的 Beat Saber 安装目录下的 `Plugins` 文件夹中：
@@ -33,9 +35,7 @@
    如果你不知道的话可以去 steam 按 “浏览本地目录” 查看
 3. 启动游戏即可生效。
 
----
-
-### 🎮 使用说明
+## 🎮 使用说明
 
 1. 启动 Beat Saber，进入Solo模式
 2. 选择你想要的曲子和难度，你也可以加选Mod和左手模式，身高永远150厘米不可以更改
@@ -43,9 +43,15 @@
 4. 接着模组会自动使用Beatleader的回放播放器播放生成的回放
 5. 好好欣赏
 
----
+## 📂 代码
 
-### 📂 代码结构
+主体架构来自 Google Gemini
+
+回放/地图分析和大方向调整来自 Claude Code
+
+最后的微调 haha
+
+### 📝 结构
 
 ```
 AutoPlay/
@@ -63,16 +69,15 @@ AutoPlay/
 └── manifest.json             # BSIPA 模组元数据清单与依赖声明
 ```
 
----
+### 👨‍💻 从源码构建
 
-### ⚖️ 免责声明
+```bash
+git clone https://github.com/haha6ha/AutoPlay.git
+cd AutoPlay
+dotnet build -c Release
+```
 
-- 本模组仅用于**谱面演示、回放效果观赏、算法学习与研究**。
-- 请勿将本工具用于任何破坏天梯与多人排位公平性的行为，尊重 BeatLeader 与 BeatSaber 社区规范。
-
----
-
-### 📄 开源协议
+## 📄 开源协议
 
 本项目基于 [MIT License](LICENSE) 开源。
 
