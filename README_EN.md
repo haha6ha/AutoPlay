@@ -11,6 +11,8 @@
 
 **AutoPlay** is an open-source mod for **Beat Saber** that generates hyper-realistic **BeatLeader replays (`.bsor`)** for any selected beatmap with a single click, and automatically launches the in-game replay viewer for you to watch.
 
+![Demo](./Demo.mp4)
+
 ## ⚖️ Disclaimer
 
 - This mod is strictly intended for **beatmap demonstrations, replay viewing, algorithm learning, and research**.
