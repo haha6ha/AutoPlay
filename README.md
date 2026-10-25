@@ -1,4 +1,4 @@
-# AutoReplay 🐸
+# AutoPlay
 
 [![Game Version](https://img.shields.io/badge/Beat%20Saber-1.40.8-blue.svg)](https://beatsaber.com/)
 [![BSIPA](https://img.shields.io/badge/BSIPA-^4.3.0-orange.svg)](https://github.com/bsmg/BeatSaber-IPA-Reloaded)
@@ -9,6 +9,17 @@
 
 ---
 
+### 📕 未来发展
+这个项目未来没有维护计划
+
+目前的已知问题
+- 躲炸弹效果不是很好
+
+如果你有任何问题想马上联系作者 https://t.me/haha_2ha
+想要什么模组都可以告诉我，如果我想做的话我就会做
+我也欢迎各种形式的打赏
+
+---
 
 ### 🚀 安装方法
 
