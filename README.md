@@ -1,5 +1,7 @@
 # AutoPlay
 
+[English](README_EN.md) | [中文](README.md)
+
 [![Game Version](https://img.shields.io/badge/Beat%20Saber-1.40.8-blue.svg)](https://beatsaber.com/)
 [![BSIPA](https://img.shields.io/badge/BSIPA-^4.3.0-orange.svg)](https://github.com/bsmg/BeatSaber-IPA-Reloaded)
 [![BeatLeader](https://img.shields.io/badge/BeatLeader-^0.9.33-red.svg)](https://beatleader.com/)
@@ -10,6 +12,7 @@
 ## ⚖️ 免责声明
 
 - 本模组仅用于**谱面演示、回放效果观赏、算法学习与研究**。
+- 用此模组生成的 .bsor 回放，Player都被标记为 "Auto Play"
 - 请勿将本工具用于任何破坏天梯与多人排位公平性的行为，尊重 BeatLeader 与 BeatSaber 社区规范。
 
 ## 📕 未来发展
