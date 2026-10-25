@@ -25,6 +25,8 @@
 
 There are no maintenance plans for this project in the future.
 
+If there’s enough of a response, I’ll continue with the development. thx
+
 ### Known Issues
 - Bomb dodging is currently not very effective.
 - If you encounter other critical issues, feel free to report them; I will only fix them if they are game-breaking.
