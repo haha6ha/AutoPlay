@@ -54,11 +54,9 @@
 
 ## 📂 代码
 
-主体架构来自 Google Gemini
-
-回放/地图分析和大方向调整来自 Claude Code
-
-最后微调 haha
+- 主体架构来自 Google Gemini
+- 回放/地图分析和大方向调整来自 Claude Code
+- 最后微调 haha
 
 ### 📝 结构
 
