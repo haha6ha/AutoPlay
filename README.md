@@ -9,7 +9,9 @@
 
 **AutoPlay** 是一个为 **Beat Saber** 开发的开源模组，能够为任意选中的谱面一键生成超拟真、**BeatLeader 回放（`.bsor`）**，并直接在游戏内自动唤起回放器进行观赏。
 
-![Demo](./Demo.mp4)
+<video src="./Demo.mp4" controls width="600"></video>
+
+[Demo2](https://t.me/haha_2ha/18)
 
 ## ⚖️ 免责声明
 
@@ -24,7 +26,7 @@
 - 躲炸弹效果不是很好
 - 如果有其他严重的问题也可以跟我反馈，很严重我在维护
 
-如果你有任何问题想马上联系作者 https://t.me/haha_2ha
+如果你有任何问题想马上联系作者 [TG@haha_ha2](https://t.me/haha_2ha)
 
 想要什么模组都可以告诉我，如果我想做的话我就会做
 
